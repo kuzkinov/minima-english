@@ -14,7 +14,7 @@
 - [VIDEO. HOW TO RESTORE MINIMA NODA - HOW TO RETURN TOP BLOCK | Archive reset | Chain Resync | Backup](https://www.youtube.com/watch?v=Y4V5s16ItN0) 
 - [![1280](https://github.com/Webzarium/test1/assets/122037228/b74d2c9d-9840-47db-af31-fc898af0b84d)](https://www.youtube.com/watch?v=Y4V5s16ItN0 "1280")
 
-## How to save minima coins ?
+## How to staking minima coins ?
 - Go to the Maximize minidump
 - Choose the number of coins from 1 to 25000.
 - For which period you want to steak and click Maximize my Minima.
