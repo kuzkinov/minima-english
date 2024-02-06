@@ -36,7 +36,7 @@
 - The scheme works if the backup is not older than 2 months.
 
 ## Instructions for checking balance by cid phrase without synchronization
-## 1 way
+## 1 method
 - Install node 
 - Install minidad [Mininfo.zip](https://minima.kz/Mininfo.zip)
 - Enter cid phrase in minidadap
