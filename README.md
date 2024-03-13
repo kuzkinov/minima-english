@@ -1,5 +1,11 @@
 # Minima
 
+## Attention! Read the instructions several times.
+- https://www.minima.global/
+- [https://t.me/minima](https://t.me/Minima_Global)
+- https://discord.com/invite/minima
+
+
 ## Restore node minima
 
 - Adding connectors
