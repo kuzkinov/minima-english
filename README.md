@@ -62,3 +62,21 @@
 - ![image](https://github.com/Webzarium/minima/assets/122037228/88103175-6de9-4218-8cb7-8ac3bad85668)
 - ![image](https://github.com/Webzarium/minima/assets/122037228/cb81feb5-4de4-464a-825b-d767d2010dbe)
 - ![image](https://github.com/Webzarium/minima/assets/122037228/e9ca4bb6-95df-4d2b-b279-4c6b1267db52)
+
+## Simple Sync
+1. Open in  minidapp Security-Restore node-QuickSync
+2. Paste IP 91.235.176.238:9001
+3. Start sync
+
+## Sync with seed phrase
+1. Open in minidapp Security-Restore node-Import Seed Phrase
+2. Paste IP 91.235.176.238:9001
+3. Write your seed phrase. Keys and Key Uses you can leave it by default.
+4. Start sync
+
+## Sync with a Backup
+1. Open in minidapp  Security-Restore node-Import Backup.
+2. Select a file via Select an external backup
+3. Enter the backup password
+4. Paste IP 91.235.176.238:9001
+5. Start sync
